@@ -1,7 +1,7 @@
 # VirtualizationKit
 
 <div align="center">
-  <img src="VirtualizationKit/Resources/Assets.xcassets/Logo.imageset/VirtualizationKit.png" width="200" height="200">
+  <img src="src/img/logo.png" width="200" height="200">
 
   <p>Welcome to <strong>VirtualizationKit</strong><br>Easy Virtualization, tailored for macOS.</p>
 </div>
