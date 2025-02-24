@@ -12,7 +12,9 @@
 > [!NOTE]
 > VirtualizationKit is **closed source** but freely available **without any paywall** in the *releases* section of this repo. The product is distributed using convenient **.xcframework** format and is accompanied by it's own license.
 
-### Design Implications
+---
+
+## Design Implications
 - A **minimal** and **simple to use** API that wraps the complexity of virtualization and reduces boilerplate code.
 - Defaults that *“just work”* for the majority of use cases, from basic Linux VMs to more complex setups.
 - Avoids **redundancy**, by not replicating advanced scenarios and use cases from the various back-ends.
