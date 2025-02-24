@@ -7,8 +7,10 @@
 </div>
 
 ## Introduction
-
 `VirtualizationKit` is a macOS framework for easy virtualization, built and ready to accommodate different back-ends (for example, Apple Virtualization and QEMU) with minimal friction. The primary goal is to offer a streamlined interface to manage virtual machines without needing to deal with the higher complexity that comes with standard virtualization solutions.
+
+> [!NOTE]
+> VirtualizationKit is **closed source** but freely available **without any paywall** in the *releases* section of this repo. The product is distributed using convenient **.xcframework** format and is accompanied by it's own license.
 
 ### Design Implications
 - A **minimal** and **simple to use** API that wraps the complexity of virtualization and reduces boilerplate code.
