@@ -1,0 +1,62 @@
+{
+    "copyright": "&copy; 2025 Giuseppe Rocco. Tutti i diritti riservati.",
+    "important": "IMPORTANTE",
+    "warning": "ATTENZIONE",
+    "tip": "SUGGERIMENTO",
+
+    "index": {
+        "button-privacy": "LICENZA",
+        "button-download": "SCARICA",
+        "slogan-line1": "Virtualizzazione facile",
+        "slogan-line2": "su misura per macOS."
+    },
+
+    "license": {
+        "title": "Accordo di Licenza",
+
+        "section1": {
+            "title": "ULTIMO AGGIORNAMENTO: Febbraio 2025",
+            "content": "Questo Contratto di Licenza (\"Licenza\") è un accordo legale tra te (persona fisica o giuridica) e Giuseppe Rocco (\"Licenziante\") per l'utilizzo del file .xcframework binario, noto come VirtualizationKit o VZKit (il \"Software\"). Utilizzando, integrando o in qualunque modo sfruttando il Software, accetti di essere vincolato dai termini di questa Licenza."
+        },
+
+        "section2": {
+            "title": "1. CONCESSIONE DELLA LICENZA",
+            "content": "1.1 Concessione della Licenza<br>Il Licenziante ti concede una licenza non esclusiva, non trasferibile e revocabile per integrare e utilizzare il Software nei tuoi progetti software, sia per uso personale sia per uso commerciale, a condizione che tu rispetti tutti i termini e le condizioni di questa Licenza.<br><br>1.2 Obbligo di Attribuzione<br>È necessario fornire un'attribuzione chiara al Software e al Licenziante (ad esempio, in una sezione \"Informazioni\" o \"Crediti\") in ogni prodotto o progetto che utilizza o include il Software. Tutti gli utilizzi—che siano privati, pubblici, gratuiti o commerciali—devono correttamente accreditare il Licenziante."
+        },
+
+        "section3": {
+            "title": "2. RESTRIZIONI",
+            "content": "2.1 Divieto di Manomissione<br>Non è consentito modificare, alterare, disassemblare, decompilare, decrittare o tentare di derivare il codice sorgente del Software. È severamente vietato tentare di aggirare o interferire con misure di sicurezza o protezioni tecniche implementate dal Licenziante all'interno dello .xcframework.<br><br>2.2 Divieto di Reverse Engineering<br>Non è consentito effettuare attività di reverse engineering, decompilazione o disassemblaggio del Software, né tentare di scoprire o utilizzare algoritmi, metodi o tecniche sottostanti, salvo laddove espressamente consentito dalla legge vigente (e solo nella misura in cui tale legge non possa essere derogata contrattualmente).<br><br>2.3 Divieto di Ridistribuzione o Rivendita<br>Non è consentito ridistribuire, rivendere, concedere in sublicenza, affittare, noleggiare o rivendere il Software, in tutto o in parte, come prodotto stand-alone o parte di un altro framework, libreria o offerta concepita per competere con o sostituire il Software. Il Software è concesso in licenza per l'integrazione nei tuoi progetti software, ma non per la ridistribuzione indipendente.<br><br>2.4 Obbligo di Attribuzione<br>In nessun caso è possibile incorporare o utilizzare il Software in un progetto o prodotto senza fornire l'attribuzione come specificato nella Sezione 1.2. La mancata attribuzione corretta del Licenziante e del Software costituisce una violazione diretta di questa Licenza."
+        },
+
+        "section4": {
+            "title": "3. DIRITTI DI PROPRIETÀ E RISERVATEZZA",
+            "content": "3.1 Diritti di Proprietà<br>Il Software, inclusi tutti i diritti di proprietà intellettuale correlati, è di proprietà esclusiva del Licenziante e continuerà a rimanere tale. Questa Licenza non costituisce una vendita del Software o di alcuna sua copia.<br><br>3.2 Riservatezza<br>Il Software è proprietario e confidenziale. Non è consentito divulgare alcuna informazione proprietaria o confidenziale contenuta nel Software a terzi, salvo ove strettamente necessario per esercitare i diritti concessi da questa Licenza.<br><br>3.3 Codice Sorgente<br>Il codice sorgente del Software è proprietario e non viene fornito con questa Licenza. È severamente vietato copiare, modificare o distribuire il codice sorgente del Software, su qualunque supporto, e tale violazione può essere soggetta ad azioni legali."
+        },
+
+        "section5": {
+            "title": "4. RISOLUZIONE",
+            "content": "4.1 Risoluzione da parte del Licenziante<br>Il Licenziante può risolvere questa Licenza immediatamente se non rispetti uno qualsiasi dei termini o condizioni. Alla risoluzione, devi interrompere ogni utilizzo e distruggere tutte le copie del Software in tuo possesso o sotto il tuo controllo.<br><br>4.2 Sopravvivenza<br>Le sezioni riguardanti la riservatezza, le restrizioni d'uso, le limitazioni di responsabilità e le dichiarazioni di non responsabilità rimarranno in vigore anche dopo la risoluzione di questa Licenza."
+        },
+
+        "section6": {
+            "title": "5. ESCLUSIONE DI GARANZIA",
+            "content": "IL SOFTWARE VIENE FORNITO \"COSÌ COM'È\" E \"COME DISPONIBILE\", SENZA ALCUNA GARANZIA DI QUALSIASI TIPO, ESPRESSA O IMPLICITA, INCLUSE A TITOLO ESEMPLIFICATIVO LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UN PARTICOLARE SCOPO, TITOLO E NON VIOLAZIONE. IL LICENZIANTE NON GARANTISCE CHE IL SOFTWARE SODDISFERÀ LE TUE ESIGENZE O CHE IL SUO FUNZIONAMENTO SARÀ ININTERROTTO O ESENTE DA ERRORI."
+        },
+
+        "section7": {
+            "title": "6. LIMITAZIONE DI RESPONSABILITÀ",
+            "content": "IN NESSUN CASO IL LICENZIANTE SARÀ RESPONSABILE PER DANNI DIRETTI, INDIRETTI, INCIDENTALI, SPECIALI, ESEMPLARI O CONSEQUENZIALI (INCLUSI, A TITOLO ESEMPLIFICATIVO, PERDITA DI PROFITTI, PERDITA DI DATI O INTERRUZIONE DI ATTIVITÀ) DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI UTILIZZARE IL SOFTWARE, ANCHE SE AVVISATO DELLA POSSIBILITÀ DI TALI DANNI. L'INTERA RESPONSABILITÀ DEL LICENZIANTE AI SENSI DI QUESTA LICENZA NON SUPERERÀ L'IMPORTO TOTALE PAGATO (SE PRESENTE) PER IL SOFTWARE."
+        },
+
+        "section8": {
+            "title": "7. DISPOSIZIONI GENERALI",
+            "content": "7.1 Legge Applicabile<br>Questa Licenza è disciplinata e interpretata in conformità alle leggi della giurisdizione in cui risiede il Licenziante, senza tenere conto dei principi di conflitto di leggi.<br><br>7.2 Clausola di Salvaguardia<br>Se una qualsiasi disposizione della presente Licenza è ritenuta non valida o inapplicabile, le restanti disposizioni rimarranno pienamente valide ed efficaci.<br><br>7.3 Mancata Rinuncia<br>Nessuna rinuncia da parte del Licenziante a una violazione di questa Licenza può essere interpretata come una rinuncia a qualsiasi altra violazione, sia essa successiva o di altra natura.<br><br>7.4 Intero Accordo<br>Questa Licenza costituisce l'intero accordo tra te e il Licenziante in merito al Software e sostituisce tutte le comunicazioni e le proposte precedenti o contemporanee (sia orali che scritte) tra le parti."
+        },
+
+        "section9": {
+            "title": "8. ACCETTAZIONE",
+            "content": "UTILIZZANDO O INTEGRANDO IL SOFTWARE, RICONOSCI DI AVER LETTO E COMPRESO QUESTA LICENZA E DI ACCETTARE DI ESSERE VINCOLATO DAI SUOI TERMINI E CONDIZIONI."
+        }
+    }
+}
