@@ -45,7 +45,10 @@ header {
 }
 
 h1 {
-    font-size: 300%;
+    font-size: clamp(2rem, 5vw, 300%);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
     margin: 0;
 }
 
