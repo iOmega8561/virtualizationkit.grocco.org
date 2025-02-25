@@ -26,6 +26,11 @@ main {
     width: 100%;
 }
 
+.hero-screenshot-main {
+    max-width: 1100px;
+    width: 100%;
+}
+
 .hero-text {
     display: flex;
     justify-content: center;
@@ -48,6 +53,12 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+.card {
+    width: 90%;
+    max-width: 900px;
+}
+  
 
 @media only screen {
     .hero-horizontal {

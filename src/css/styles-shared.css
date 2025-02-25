@@ -34,7 +34,9 @@ pre {
     white-space: nowrap;
     max-width: fit-content;
     border: 1px solid #ccc;
+    border-radius: 6px;
     padding: 10px;
+    box-sizing: border-box;
 }
 
 .button {
